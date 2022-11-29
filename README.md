@@ -61,6 +61,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-BE7928?style=flat-square&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=Redis&logoColor=white">
   <br /><br />
   <b>Frontend　</b>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
