@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **daseullll/daseullll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AN%20DASEUL&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AN%20DASEUL&fontSize=90&animation=fadeIn&fontAlignY=38&desc=backend%20developer&descAlignY=51&descAlign=62)
 
 <p align="center">
   <a href="https://amazing-act-aab.notion.site/1e9c0d3e21714d89b0cdffaa0aab91d9">
@@ -26,18 +26,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  Hi! I'm interested in backend develop<br />
+  Hi there 👋<br />
   ___
 </p>
-
-
 
 ### :books: Education & Career
 
 - Samsung SW Academy For Youth (a.k.a. SSAFY) 7th Coach (2022.06 - present)
 - Samsung SW Academy For Youth (a.k.a. SSAFY) 6th (2021.07 - 2022.06)
-- Machine learning-based Big Data Expert Course (2020.06 - 2020.08)
-- Chonnam National University, Bachelor of Oceanography (2015.03 - 2020.08)
+
 
 
 <br />
@@ -46,12 +43,10 @@ Here are some ideas to get you started:
 
 |      Period       |       Category        | Project                                                      |
 | :---------------: | :-------------------: | ------------------------------------------------------------ |
-| 2022.04 - 2022.05 |          Web          | [싸필로그](https://github.com/hyunse0/ssapilogue) (싸피인들을 위한 프로젝트 공유 플랫폼) |
-| 2022.02 - 2022.04 |          Web          | [두콩](https://github.com/hyunse0/docong) (원격일잘러들을 위한 집중 서비스) |
-| 2022.01 - 2022.02 |          Web          | [모각공](https://github.com/hyunse0/mogakgong) (Web RTC 기술을 활용한 온라인 독서실) |
-| 2021.11 - 2021.11 |          Web          | [Mood of Movie](https://github.com/hyunse0/Mood-of-Movie) (추천 알고리즘을 사용한 영화 커뮤니티) |
-| 2020.08 - 2020.08 | Machine<br />Learning | 여행만족도 및 여행객 수 분석을 통한 비인기 여행지 활성화 방안 |
-| 2020.07 - 2020.07 | Maching<br />Learning | Kaggle을 통한 주택가격예측                                   |
+| 2022.10 - 2022.11 |          Web          | [배부릉](https://github.com/hyunse0/ssapilogue) (기업연계 - 클라우드스톤 드라이버와 관리자를 위한 플랫폼) |
+| 2022.08 - 2022.10 |          Web          | [여보](https://github.com/hyunse0/docong) (빅데이터를 활용한 사용자 맞춤형 여행지 추천) |
+| 2022.07 - 2022.08 |          Web          | [오운완](https://github.com/hyunse0/mogakgong) (Web RTC 기술을 활용한 모션 인식 경쟁 운동 서비스) |
+| 2022.06 - 2021.06ㅠ |          Web          | [Happy House](https://github.com/hyunse0/Mood-of-Movie) (Open API를 활용한 주택 거래) |
 
 
 <br />
