@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&amp;logo=Mattermost&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-
+<br />
 <br />
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ads4325">
