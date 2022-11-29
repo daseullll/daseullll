@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://amazing-act-aab.notion.site/1e9c0d3e21714d89b0cdffaa0aab91d9">
     <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
   </a>
-  <a href="">
+  <a href="https://happyeuni.notion.site/CS-0dc485bfbd0845c9bed6b9444b4ea3c2">
     <img src="https://img.shields.io/badge/Tech Blog-F6F5F5?style=flat-square&logo=Tistory&logoColor=black">
   </a>
 </p>
