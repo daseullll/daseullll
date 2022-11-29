@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 | 2022.10 - 2022.11 |          Web          | [배부릉](https://github.com/daseullll/Baebooreung) (기업연계 - 클라우드스톤 드라이버와 관리자를 위한 플랫폼) |
 | 2022.08 - 2022.10 |          Web          | [여보](https://github.com/daseullll/Yeobo) (빅데이터를 활용한 사용자 맞춤형 여행지 추천) |
 | 2022.07 - 2022.08 |          Web          | [오운완](https://github.com/daseullll/OWO) (Web RTC 기술을 활용한 모션 인식 경쟁 운동 서비스) |
-| 2022.05 - 2022.05 |          Web          | [](https://github.com/daseullll/HappyHouse) (공공데이터를 활용한 부동산 관련 정보) |
+| 2022.05 - 2022.05 |          Web          | [해피하우스](https://github.com/daseullll/HappyHouse) (공공데이터를 활용한 부동산 관련 정보) |
 
 
 <br />
