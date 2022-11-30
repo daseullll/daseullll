@@ -85,6 +85,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+### :muscle: Problem Solving  
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ads4325">
 </p>
